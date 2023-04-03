@@ -6,7 +6,7 @@
 >
 > 第一个链接都是源仓库，最好去源仓库查看，并在软件内添加配置文件
 
-[软件下载](https://github.com/destiny-yyc/ladder#%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD)
+**[软件下载](https://github.com/destiny-yyc/ladder#%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD)**
 
 > https://github.com/aiboboxx/v2rayfree
 >
